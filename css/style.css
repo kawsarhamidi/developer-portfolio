@@ -9,13 +9,7 @@ section{
 .text-primary{
     color: #FD6E0A;
 }
-.header{
-    background: #FFF8F3;
-    background-image: url('../images/header_bg.png'), url('../images/developer.png');
-    background-repeat: no-repeat;
-    background-position: bottom right, left;
-}
-.btn-parimary{
+.btn-primary{
 
     height: 64px;
     border-radius: 5px;
@@ -26,6 +20,13 @@ section{
     border: 0;
     padding: 18px 35px;
 }
+.header{
+    background: #FFF8F3;
+    background-image: url('../images/header_bg.png'), url('../images/developer.png');
+    background-repeat: no-repeat;
+    background-position: bottom right, left;
+}
+/* header and navigation */
 nav{
     display: flex;
     justify-content: space-between;
