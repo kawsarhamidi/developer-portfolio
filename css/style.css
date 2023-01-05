@@ -20,6 +20,15 @@ section{
     border: 0;
     padding: 18px 35px;
 }
+.btn-contact{
+    height: 64px;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+    padding: 18px 35px;
+    background: burlywood;
+}
 .header{
     background: #FFF8F3;
     background-image: url('../images/header_bg.png'), url('../images/developer.png');
@@ -171,4 +180,5 @@ input{
 }
 .contact a{
     text-decoration: none;
+    padding: 10px;
 }
