@@ -22,12 +22,14 @@ section{
 }
 .btn-contact{
     height: 64px;
-    border-radius: 50px;
+    border-radius: 10px;
     font-size: 20px;
     font-weight: 700;
     border: 0;
     padding: 18px 35px;
-    background: burlywood;
+    background: slategray;
+    color: #FFF8F3;
+    margin-left: 10px;
 }
 .header{
     background: #FFF8F3;
@@ -57,7 +59,7 @@ nav li{
 .banner{
     display: flex;
     align-items: center;
-    margin: 0 200px;
+    margin: 0 0px 0 200px;
 }
 .banner-title{
     font-weight: 700;
@@ -71,6 +73,8 @@ nav li{
     color: #757575;
     font-size: 18px;
     margin-bottom: 30px;
+    width: 50%;
+
 }
 /* main section */
 main{
